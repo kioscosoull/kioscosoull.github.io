@@ -61,6 +61,6 @@ function enviarPedido() {
     }
   });
 
-  const mensaje = `Quiero encargar:\n${pedido.join('\n')}\n\nDirección:\n${direccion}\n\nTotal: $${total}\nEnvío: $${envio}\Total Neto: $${total + envio}`;
-  window.open(`https://wa.me/?text=${encodeURIComponent(mensaje)}`, "_blank");
+  const mensaje = `Quiero encargar:\n${pedido.join('\n')}\n\nDirección:\n${direccion}\n\nTotal: $${total}\nEnvío: $${envio}\nTotal Neto: $${total + envio}`;
+  window.open(`https://wa.me/5403402590854?text=${encodeURIComponent(mensaje)}`, "_blank");
 }
