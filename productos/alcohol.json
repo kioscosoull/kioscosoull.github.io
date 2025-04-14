@@ -25,7 +25,7 @@
   },
   {
     "id": "prod-5",
-    "nombre": "Amargo Obrero",
+    "nombre": "Amargo Obrero 1L",
     "precio": 4000,
     "imagen": "https://labebidadetusfiestas.com.ar/38059-thickbox_default/amargo-obrero-950cc.jpg"
   },
@@ -37,19 +37,19 @@
   },
   {
     "id": "prod-7",
-    "nombre": "Cinzano",
+    "nombre": "Cinzano 1L",
     "precio": 7500,
     "imagen": "https://vinosonline.es/9782-thickbox_default/cinzano-rosso-1l.jpg"
   },
   {
     "id": "prod-8",
-    "nombre": "Caja Vino Toro",
+    "nombre": "Caja Vino Toro 1L",
     "precio": 2500,
     "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/652992/Vino-Toro-Tinro-Brk-1000cc-1-853904.jpg?v=637603170416900000"
   },
   {
     "id": "prod-9",
-    "nombre": "Botella Viña de Balbo",
+    "nombre": "Botella Viña de Balbo 1L",
     "precio": 2500,
     "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/624748/Vino-Tinto-Vi-as-De-Balbo-Borgo-a-1-125-Cc-1-40525.jpg?v=637510296796370000"
   }
