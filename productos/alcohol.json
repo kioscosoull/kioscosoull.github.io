@@ -1,0 +1,56 @@
+[
+  {
+    "id": "prod-1",
+    "nombre": "Petacas Derna Whisky",
+    "precio": 2000,
+    "imagen": "https://distribuidoramif.com.ar/wp-content/uploads/2025/04/0252e143-e783-46b2-864e-db26d6ac1dce.jpg"
+  },
+  {
+    "id": "prod-2",
+    "nombre": "Petacas Derna Anis",
+    "precio": 2000,
+    "imagen": "https://tyna.com.ar//assets/archivos/recortadas/34326.png"
+  },
+  {
+    "id": "prod-3",
+    "nombre": "Petacas Derna Dulce de Leche",
+    "precio": 2000,
+    "imagen": "https://distribuidoramif.com.ar/wp-content/uploads/2025/04/128ad5d3-7a82-496e-a997-941c8fc23331.jpeg"
+  },
+  {
+    "id": "prod-4",
+    "nombre": "Branca Fernet 75cl",
+    "precio": 17000,
+    "imagen": "https://th.bing.com/th/id/OIP.saPKLMJ3Xl0Z6ZpbffHpdgHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "prod-5",
+    "nombre": "Amargo Obrero",
+    "precio": 4000,
+    "imagen": "https://labebidadetusfiestas.com.ar/38059-thickbox_default/amargo-obrero-950cc.jpg"
+  },
+  {
+    "id": "prod-6",
+    "nombre": "Gancia",
+    "precio": 6000,
+    "imagen": "https://th.bing.com/th/id/R.e3d2141938e91771a5612005c95a359b?rik=vqcumtK8P52n%2fA&pid=ImgRaw&r=0"
+  },
+  {
+    "id": "prod-7",
+    "nombre": "Cinzano",
+    "precio": 7500,
+    "imagen": "https://vinosonline.es/9782-thickbox_default/cinzano-rosso-1l.jpg"
+  },
+  {
+    "id": "prod-8",
+    "nombre": "Caja Vino Toro",
+    "precio": 2500,
+    "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/683622/Vino-Toro-Clasico-Tinto-1125-1-875301.jpg?v=637771773913630000"
+  },
+  {
+    "id": "prod-9",
+    "nombre": "Botella Viña de Balbo",
+    "precio": 2500,
+    "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/624748/Vino-Tinto-Vi-as-De-Balbo-Borgo-a-1-125-Cc-1-40525.jpg?v=637510296796370000"
+  }
+]

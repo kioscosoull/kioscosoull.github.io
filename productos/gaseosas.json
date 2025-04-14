@@ -1,0 +1,65 @@
+[
+  {
+    "id": "beb-1",
+    "nombre": "Manaos Pomelo Blanco 3L",
+    "precio": 2000,
+    "imagen": "https://i0.wp.com/super22deoctubre.com.ar/wp-content/uploads/2020/07/Captura-de-pantalla-90.png?fit=600%2C496&ssl=1",
+    "stock": 4
+  },
+  {
+    "id": "beb-2",
+    "nombre": "Manaos Limon 3L",
+    "precio": 2000,
+    "imagen": "https://live.staticflickr.com/65535/52470396108_ff4e1d0b5d_m.jpg",
+    "stock": 3
+  },
+  {
+    "id": "beb-3",
+    "nombre": "Manaos Naranja 2,25L",
+    "precio": 1800,
+    "imagen": "https://i0.wp.com/super22deoctubre.com.ar/wp-content/uploads/2020/07/Manaos-Naranja-3L.png?fit=500%2C500&ssl=1",
+    "stock": 1
+  },
+  {
+    "id": "beb-4",
+    "nombre": "Cunnington Lima Limon",
+    "precio": 1600,
+    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/333917/7790639003468_E02.jpg?v=638216542117570000",
+    "stock": 5
+  },
+  {
+    "id": "beb-5",
+    "nombre": "Cunnington Tonic",
+    "precio": 1600,
+    "imagen": "https://elnenearg.vtexassets.com/arquivos/ids/167352-800-auto?v=638243409763230000&width=800&height=auto&aspect=true",
+    "stock": 6
+  },
+  {
+    "id": "beb-6",
+    "nombre": "Cunnington Cola",
+    "precio": 1600,
+    "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/568030/Gaseosas-Cunnington-Cola-225-L-1-839439.jpg?v=637146548117600000",
+    "stock": 4
+  },
+  {
+    "id": "beb-7",
+    "nombre": "Cunnington Pomelo",
+    "precio": 1600,
+    "imagen": "https://elnenearg.vtexassets.com/arquivos/ids/167760/GASEOSA-CUNNINGTON-POMELO-SUAVE-X2-25LT-1-12630.jpg?v=638292657871070000",
+    "stock": 2
+  },
+  {
+    "id": "beb-8",
+    "nombre": "7up Botella 1,5L",
+    "precio": 2800,
+    "imagen": "https://th.bing.com/th/id/OIP.K_nTrnfaBK27FFysPF9VvgHaHa?rs=1&pid=ImgDetMain",
+    "stock": 3
+  },
+  {
+    "id": "beb-9",
+    "nombre": "Coca Cola 1,5L",
+    "precio": 2800,
+    "imagen": "https://th.bing.com/th/id/OIP.2ZMr6uBV6nz33Lz2QqLDpQHaHa?rs=1&pid=ImgDetMain",
+    "stock": 3
+  }
+]

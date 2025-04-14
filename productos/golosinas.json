@@ -1,0 +1,128 @@
+[
+  {
+    "id": "prod-1",
+    "nombre": "Fantoche Blanco",
+    "precio": 800,
+    "imagen": "https://th.bing.com/th/id/OIP.Q8iDCgjjeU5FX_Y5BM2bYQHaD4?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "prod-2",
+    "nombre": "Fantoche Negro",
+    "precio": 800,
+    "imagen": "https://www.comedordelosmilagros.com/wp-content/uploads/2022/02/Alfajor-Fantoche.jpg"
+  },
+  {
+    "id": "prod-3",
+    "nombre": "Guaymallen Blanco",
+    "precio": 500,
+    "imagen": "https://d3340tyzmtlo4u.cloudfront.net/users/864/images/detailed/10/Guaymall%C3%A9n_Alfajor_Triple_Chocolate_Blanco,_70_g.jpg"
+  },
+  {
+    "id": "prod-4",
+    "nombre": "Guaymallen Negro",
+    "precio": 500,
+    "imagen": "https://cdn.shopify.com/s/files/1/0351/3673/3229/products/alfajor-guaymallen-triple-chocolate-tri-dulce-de-leche-70g-D_Q_NP_607391-MLA41716093320_052020-F_1024x1024.jpg?v=1603909077"
+  },
+  {
+    "id": "prod-5",
+    "nombre": "Misky Negro",
+    "precio": 300,
+    "imagen": "https://golosinaselmuelle.com/wp-content/uploads/2019/03/chocolate-misky-negro-celofan-324x324.jpg"
+  },
+  {
+    "id": "prod-6",
+    "nombre": "Misky Blanco",
+    "precio": 300,
+    "imagen": "https://images.rappi.com.ar/products/490053075202_jcklzozlnnwf_344562584452_ycvfemfzbvda_62182_1.jpeg?e=webp&d=900x750&q=30"
+  },
+  {
+    "id": "prod-7",
+    "nombre": "Hamlet Bicolor",
+    "precio": 800,
+    "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/625287/Chocolate-Hamlet-Aireado-Bicolor-49-Gr-1-12241.jpg?v=637516782194970000"
+  },
+  {
+    "id": "prod-8",
+    "nombre": "Hamlet Chocolatoso",
+    "precio": 800,
+    "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/636220-800-auto?v=637535809413030000&width=800&height=auto&aspect=true"
+  },
+  {
+    "id": "prod-9",
+    "nombre": "Hamlet Almendra y mani",
+    "precio": 800,
+    "imagen": "https://th.bing.com/th/id/OIP.S0MY1dOOIWQ-0rfkTrHeagHaEW?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "prod-10",
+    "nombre": "Hamlet Blanco y cookies",
+    "precio": 800,
+    "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/625289/Chocolate-Hamlet-Blanco-52-Gr-1-12275.jpg?v=637516782199970000"
+  },
+  {
+    "id": "prod-11",
+    "nombre": "Hamlet Leche y Chocolate",
+    "precio": 800,
+    "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/002/609/727/products/701-4d79810685eb97bb0016781060188046-1024-1024.png"
+  },
+  {
+    "id": "prod-12",
+    "nombre": "Oblibon Bonobon",
+    "precio": 300,
+    "imagen": "https://docefesta.jetassets.com.br/produto/multifotos/hd/20240301154050_5631994369_DZ.png"
+  },
+  {
+    "id": "prod-13",
+    "nombre": "Topline Menta",
+    "precio": 400,
+    "imagen": "https://d3340tyzmtlo4u.cloudfront.net/users/864/images/detailed/17/Topline_Menta_Chicle_Sabor_a_Menta,_6,7_g__20_Chicles_.jpg"
+  },
+  {
+    "id": "prod-14",
+    "nombre": "Gomitas 100g",
+    "precio": 1500,
+    "imagen": "https://th.bing.com/th/id/OIP.EkFUT6W-pKDBQD8vV1BxZQHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "prod-15",
+    "nombre": "Baggio Chico",
+    "precio": 500,
+    "imagen": "https://th.bing.com/th/id/OIP.d6rZi3fdU7va5l2bnK427wHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "prod-16",
+    "nombre": "Baggio Grande",
+    "precio": 1800,
+    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/245809/Jugo-Baggio-Pronto-Mixfrutal-X-200-Cc-1-32046.jpg?v=637879881953700000"
+  },
+  {
+    "id": "prod-17",
+    "nombre": "Caramelos Menta con Chocolate x6",
+    "precio": 400,
+    "imagen": "https://th.bing.com/th/id/OIP.flK4r6FSyqbbZZRk_JkUzQHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "prod-18",
+    "nombre": "Caramelos Masticables x6",
+    "precio": 300,
+    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/195135/7790580178109_02.jpg?v=637516044750100000"
+  },
+  {
+    "id": "prod-19",
+    "nombre": "Caramelos Chupetines",
+    "precio": 150,
+    "imagen": "https://th.bing.com/th/id/R.8dd06993f3ff2442a3f700dba3b4cfa1?rik=6%2fWNcARMnjVygw&pid=ImgRaw&r=0"
+  },
+  {
+    "id": "prod-20",
+    "nombre": "Caramelos Palitos de la selva x5",
+    "precio": 300,
+    "imagen": "https://th.bing.com/th/id/OIP.et65SRG8CxM_KmGenuDqgQHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "prod-21",
+    "nombre": "Caramelos con Chocolate x4",
+    "precio": 300,
+    "imagen": "https://th.bing.com/th/id/R.2d2f35a5409793691fcf3529c5b0c99f?rik=DKdaVCOxq0btBg&pid=ImgRaw&r=0"
+  }
+]

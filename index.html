@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kiosco Soul</title>
+  <link rel="stylesheet" href="stylees.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Kiosco Soul - ¡Elegi tus productos!</h1>
+    <div id="selector-categorias">
+      <button onclick="cambiarCategoria('galletitas')">Galletitas</button>
+      <button onclick="cambiarCategoria('gaseosas')">Gaseosas</button>
+      <button onclick="cambiarCategoria('alcohol')">Alcohol</button>
+      <button onclick="cambiarCategoria('golosinas')">Golosinas</button>
+      <button onclick="cambiarCategoria('cigarrillos')">Cigarrillos</button>
+    </div>
+    <div id="productos" class="productos-grid">
+    </div>
+
+    <label for="direccion">Dirección/Ubicación:</label>
+    <input type="text" id="direccion" placeholder="Escribe tu dirección...">
+    <div id="total">
+      <p>Total: $<span id="total-cantidad">0</span></p>
+      <p>Envío: $400</p>
+      <p><strong>Gran Total: $<span id="gran-total">400</span></strong></p>
+    </div>
+    <button onclick="enviarPedido()">Enviar Pedido</button>
+  </div>
+  
+  <script src="main.js"></script>
+</body>
+</html>

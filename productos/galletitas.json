@@ -1,0 +1,134 @@
+[
+  {
+    "id": "galletita-1",
+    "nombre": "Pitusas Chocolate",
+    "precio": 1100,
+    "imagen": "https://d3340tyzmtlo4u.cloudfront.net/users/864/images/detailed/13/Pitusas_Galletitas_Dulces_Sabor_Chocolate,_160_g.jpg"
+  },
+  {
+    "id": "galletita-2",
+    "nombre": "Pitusas Vainilla",
+    "precio": 1100,
+    "imagen": "https://th.bing.com/th/id/OIP.fIcq3K2lNsFYA4qp0UufTAHaH8?w=800&h=859&rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "galletita-3",
+    "nombre": "Pitusas Mouse de chocolate",
+    "precio": 1100,
+    "imagen": "https://th.bing.com/th/id/OIP.22mPHYE4Yl-FT2mY_Ij3OAHaHh?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "galletita-4",
+    "nombre": "Pitusas Frutilla",
+    "precio": 1100,
+    "imagen": "https://th.bing.com/th/id/OIP.m1x6FKIIISJs7LlfCWb8wwHaH8?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "galletita-5",
+    "nombre": "Obleas Chocolate",
+    "precio": 1000,
+    "imagen": "https://alberdisa.vteximg.com.br/arquivos/ids/175512-1000-1000/23963.png?v=638314166205470000"
+  },
+  {
+    "id": "galletita-6",
+    "nombre": "Obleas Frutilla",
+    "precio": 1000,
+    "imagen": "https://th.bing.com/th/id/OIP.8kC77oAjxPHnuEBJL0L0iwHaHa?w=600&h=600&rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "galletita-7",
+    "nombre": "Obleas Vainilla",
+    "precio": 1000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_793716-MLA69798842628_062023-O.webp"
+  },
+  {
+    "id": "galletita-8",
+    "nombre": "9 de Oro Agridulce",
+    "precio": 900,
+    "imagen": "https://th.bing.com/th/id/OIP.inKbpM1Kjdquou5GAMcfawHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "galletita-9",
+    "nombre": "9 de Oro Clasicas",
+    "precio": 900,
+    "imagen": "https://th.bing.com/th/id/OIP.fEHQpnp0rRmAPzXjzjXHGwHaHa?w=1200&h=1200&rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "galletita-10",
+    "nombre": "Hojalmar Triangulitos",
+    "precio": "N/A",
+    "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/002/609/727/products/121-52faca19877ce10f7f16778780906461-1024-1024.png"
+  },
+  {
+    "id": "galletita-11",
+    "nombre": "Terrabussi Pepas membrillo",
+    "precio": 1400,
+    "imagen": "https://th.bing.com/th/id/OIP.GvbTuy6aQadKGePvxeYxsQHaJ4?w=768&h=1024&rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "galletita-12",
+    "nombre": "Trio Chop Pepas membrillo",
+    "precio": 1300,
+    "imagen": "https://www.delmayoristaacasa.com.ar/wp-content/uploads/2021/04/DSC_0747.jpg"
+  },
+  {
+    "id": "galletita-13",
+    "nombre": "Trio Frolitas",
+    "precio": 1300,
+    "imagen": "https://images.deliveryhero.io/image/pedidosya/products/65032489-5f3b-4ae3-9ec1-53de27a856d9.jpg?quality=80&width=200"
+  },
+  {
+    "id": "galletita-14",
+    "nombre": "Don Satur Bizcocho negro",
+    "precio": 1100,
+    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/171130/7795735000342_02.jpg?v=637468538153430000"
+  },
+  {
+    "id": "galletita-15",
+    "nombre": "Don Satur Bizcocho salado",
+    "precio": 1100,
+    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/197159-800-auto?v=637523691778430000&width=800&height=auto&aspect=true"
+  },
+  {
+    "id": "galletita-16",
+    "nombre": "Arcor Diversion",
+    "precio": 2300,
+    "imagen": "https://icnorteb2c.vteximg.com.br/arquivos/ids/155650-1000-1000/Galletas-Diversion-Arcor-400-Gr-1-161.jpg?v=637338812821370000"
+  },
+  {
+    "id": "galletita-17",
+    "nombre": "Fantoche Marmoladas",
+    "precio": 1500,
+    "imagen": "https://d3340tyzmtlo4u.cloudfront.net/users/864/images/detailed/14/Fantoche_Galletitas_Dulces_Marmoladas_Sabor_a_Chocolate_y_Vainilla,_350_g.jpg"
+  },
+  {
+    "id": "galletita-18",
+    "nombre": "Fantoche Horoscopo",
+    "precio": 1500,
+    "imagen": "https://d3340tyzmtlo4u.cloudfront.net/users/864/images/detailed/14/Fantoche_Hor%C3%B3scopo_Galletitas_Dulces_Sabor_Chocolate,_300_g.jpg"
+  },
+  {
+    "id": "galletita-19",
+    "nombre": "MiMago Choco Chips",
+    "precio": 1500,
+    "imagen": "https://carulla.vtexassets.com/arquivos/ids/7329698/galletas-choco-chips-mini-paquete-x12-unidades.jpg?v=637847923623300000"
+  },
+  {
+    "id": "galletita-20",
+    "nombre": "MiMago Pepas",
+    "precio": 1500,
+    "imagen": "https://th.bing.com/th/id/OIP.vUhfkkFTTFyLFwltzc22LQHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "galletita-21",
+    "nombre": "Celosas",
+    "precio": 1300,
+    "imagen": "https://th.bing.com/th/id/OIP.HlmbnkxkAAvLrNptUgtF1gHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "galletita-22",
+    "nombre": "Lia Media Tarde",
+    "precio": 1500,
+    "imagen": "https://eldoradouy.vtexassets.com/arquivos/ids/1149021-800-auto?v=637969833456830000&width=800&height=auto&aspect=true"
+  }
+]
