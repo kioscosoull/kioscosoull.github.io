@@ -53,14 +53,17 @@ function actualizarTotal() {
 function enviarPedido() {
   const direccion = document.getElementById('direccion').value;
   const pedido = [];
+  let subtotal = 0;
 
   productosCargados.forEach(p => {
     const cantidad = parseInt(document.getElementById(p.id).innerText);
     if (cantidad > 0) {
-      pedido.push(`${p.nombre} - ${cantidad}`);
+      const totalProducto = cantidad * p.precio;
+      pedido.push(`➡ ${p.nombre} - ${cantidad} x $${p.precio} = $${totalProducto}`);
+      subtotal += totalProducto;
     }
   });
 
-  const mensaje = `Quiero encargar:\n${pedido.join('\n')}\n\nDirección:\n${direccion}\n\nTotal: $${total}\nEnvío: $${envio}\nTotal Neto: $${total + envio}`;
+  const mensaje = `🛒 *Pedido Kiosco Soul* 🛒\n\n📋 *Detalle del pedido:*\n${pedido.join('\n')}\n\n📍 *Dirección:*\n${direccion}\n\n💰 *Subtotal:* $${subtotal}\n🚚 *Envío:* $${envio}\n💵 *Total:* $${subtotal + envio}`;
   window.open(`https://wa.me/5403402590854?text=${encodeURIComponent(mensaje)}`, "_blank");
 }
