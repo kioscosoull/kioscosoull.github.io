@@ -1,66 +1,67 @@
-/* Estilo global */
+/* === ESTILOS BASE (PC) === */
+
 body {
     background: #121212;
     color: #f1f1f1;
     font-family: 'Arial', sans-serif;
     display: flex;
     justify-content: center;
-    align-items: flex-start;  /* Ajuste para alinear al inicio */
+    align-items: flex-start;
     min-height: 100vh;
     margin: 0;
     overflow: hidden;
-}
-
-.container {
+  }
+  
+  .container {
     background: #1a1a1a;
     padding: 30px;
     border-radius: 16px;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
     width: 95%;
     max-width: 600px;
-    height: 90vh;  /* Establecemos la altura máxima para la ventana */
-    overflow-y: auto;  /* Permitimos el desplazamiento vertical */
+    height: 90vh;
+    overflow-y: auto;
     animation: fadeIn 1s ease-out;
     scrollbar-width: thin;
     scrollbar-color: #888 #121212;
-}
-
-h1 {
+  }
+  
+  h1 {
     font-size: 28px;
     margin-bottom: 20px;
     text-align: center;
     color: #f1f1f1;
     letter-spacing: 1px;
-}
-
-/* Animación para los textos de Total y Gran Total */
-@keyframes fadeInText {
+  }
+  
+  /* Animaciones */
+  @keyframes fadeInText {
     0% {
-        opacity: 0;
-        transform: translateX(-30px);
+      opacity: 0;
+      transform: translateX(-30px);
     }
     100% {
-        opacity: 1;
-        transform: translateX(0);
+      opacity: 1;
+      transform: translateX(0);
     }
-}
-
-/* Agregar animación a los textos de Cálculo Total y Gran Total */
-.gran-total, .calculo-total {
+  }
+  
+  .gran-total,
+  .calculo-total {
     animation: fadeInText 1s ease-out forwards;
     opacity: 0;
-}
-
-.gran-total {
-    animation-delay: 0.6s; /* Retraso para el texto de Gran Total */
-}
-
-.calculo-total {
-    animation-delay: 0.8s; /* Retraso para el texto de Cálculo Total */
-}
-
-/* Selector de categorías */
-#selector-categorias button {
+  }
+  
+  .gran-total {
+    animation-delay: 0.6s;
+  }
+  
+  .calculo-total {
+    animation-delay: 0.8s;
+  }
+  
+  /* Botones de categoría */
+  #selector-categorias button {
     background: #333;
     border: none;
     color: #f1f1f1;
@@ -71,26 +72,26 @@ h1 {
     font-size: 16px;
     transition: background-color 0.3s ease, transform 0.3s ease;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-}
-
-#selector-categorias button:hover {
+  }
+  
+  #selector-categorias button:hover {
     background-color: #555;
     transform: scale(1.05);
-}
-
-#selector-categorias button:active {
+  }
+  
+  #selector-categorias button:active {
     transform: scale(0.98);
-}
-
-/* Estilo de los productos */
-.productos-grid {
+  }
+  
+  /* Grid de productos */
+  .productos-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 16px;
     margin-bottom: 20px;
-}
-
-.producto {
+  }
+  
+  .producto {
     background: #1d1d1d;
     border-radius: 20px;
     padding: 20px;
@@ -101,47 +102,38 @@ h1 {
     opacity: 0;
     transform: translateY(30px);
     animation: fadeInUp 0.6s forwards;
-}
-
-.producto:nth-child(even) {
+  }
+  
+  .producto:nth-child(even) {
     animation-delay: 0.4s;
-}
-
-.producto:nth-child(odd) {
+  }
+  
+  .producto:nth-child(odd) {
     animation-delay: 0.8s;
-}
-
-.producto:hover {
+  }
+  
+  .producto:hover {
     box-shadow: 0 12px 25px rgba(0, 0, 0, 0.4);
     transform: translateY(-5px);
-}
-
-.producto img {
-    width: 100%;
-    max-width: 120px;
-    height: auto;
-    margin-bottom: 12px;
-    border-radius: 12px;
-    transition: transform 0.3s ease;
-}
-
-.producto img {
+  }
+  
+  .producto img {
     width: 120px;
     height: 120px;
     object-fit: cover;
     margin-bottom: 12px;
     border-radius: 12px;
     transition: transform 0.3s ease;
-}
-
-.producto h2 {
+  }
+  
+  .producto h2 {
     font-size: 18px;
     margin-bottom: 10px;
     color: #f1f1f1;
-}
-
-/* Botones de aumento y disminución de cantidad */
-.cantidad-boton {
+  }
+  
+  /* Botones de cantidad */
+  .cantidad-boton {
     background: #444;
     color: #f1f1f1;
     border: none;
@@ -153,19 +145,19 @@ h1 {
     margin: 5px;
     display: inline-block;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-}
-
-.cantidad-boton:hover {
+  }
+  
+  .cantidad-boton:hover {
     background-color: #666;
     transform: scale(1.1);
-}
-
-.cantidad-boton:active {
+  }
+  
+  .cantidad-boton:active {
     transform: scale(0.95);
-}
-
-/* Estilo del campo de dirección */
-input[type="text"] {
+  }
+  
+  /* Campo de dirección */
+  input[type="text"] {
     width: 100%;
     padding: 12px;
     margin-top: 16px;
@@ -175,15 +167,15 @@ input[type="text"] {
     color: #f1f1f1;
     font-size: 16px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-}
-
-input[type="text"]:focus {
+  }
+  
+  input[type="text"]:focus {
     background-color: #3b3b3b;
     outline: none;
-}
-
-/* Estilo del botón de enviar */
-button {
+  }
+  
+  /* Botón Enviar Pedido */
+  button {
     margin-top: 20px;
     padding: 12px;
     width: 100%;
@@ -195,36 +187,97 @@ button {
     cursor: pointer;
     transition: background 0.3s ease, transform 0.3s ease;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-}
-
-button:hover {
+  }
+  
+  button:hover {
     background: #666;
     transform: scale(1.05);
-}
-
-button:active {
+  }
+  
+  button:active {
     transform: scale(0.95);
-}
-
-/* Transiciones y Animaciones */
-@keyframes fadeIn {
+  }
+  
+  /* Transiciones globales */
+  @keyframes fadeIn {
     0% {
-        opacity: 0;
-        transform: translateY(30px);
+      opacity: 0;
+      transform: translateY(30px);
     }
     100% {
-        opacity: 1;
-        transform: translateY(0);
+      opacity: 1;
+      transform: translateY(0);
     }
-}
-
-@keyframes fadeInUp {
+  }
+  
+  @keyframes fadeInUp {
     0% {
-        opacity: 0;
-        transform: translateY(30px);
+      opacity: 0;
+      transform: translateY(30px);
     }
     100% {
-        opacity: 1;
-        transform: translateY(0);
+      opacity: 1;
+      transform: translateY(0);
     }
-}
+  }
+  
+  /* === ESTILOS RESPONSIVOS (CELULARES) === */
+  @media (max-width: 600px) {
+    .container {
+      width: 100%;
+      height: 100vh;
+      padding: 20px;
+      border-radius: 0;
+      box-shadow: none;
+    }
+  
+    h1 {
+      font-size: 22px;
+      margin-bottom: 16px;
+    }
+  
+    #selector-categorias button {
+      padding: 10px 15px;
+      font-size: 14px;
+      margin: 4px;
+    }
+  
+    .productos-grid {
+      grid-template-columns: 1fr;
+      gap: 12px;
+    }
+  
+    .producto {
+      padding: 16px;
+    }
+  
+    .producto h2 {
+      font-size: 16px;
+    }
+  
+    .producto img {
+      width: 100px;
+      height: 100px;
+    }
+  
+    input[type="text"] {
+      font-size: 14px;
+      padding: 10px;
+    }
+  
+    button {
+      font-size: 16px;
+      padding: 10px;
+    }
+  
+    .cantidad-boton {
+      padding: 10px 16px;
+      font-size: 18px;
+      margin: 4px;
+    }
+  
+    #total p {
+      font-size: 14px;
+    }
+  }
+  
