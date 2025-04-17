@@ -19,7 +19,7 @@
   },
   {
     "id": "prod-4",
-    "nombre": "Branca Fernet 75cl",
+    "nombre": "Branca Fernet 750ml",
     "precio": 17000,
     "imagen": "https://th.bing.com/th/id/OIP.saPKLMJ3Xl0Z6ZpbffHpdgHaHa?rs=1&pid=ImgDetMain"
   },
@@ -31,7 +31,7 @@
   },
   {
     "id": "prod-6",
-    "nombre": "Gancia",
+    "nombre": "Gancia 1L",
     "precio": 6000,
     "imagen": "https://th.bing.com/th/id/R.e3d2141938e91771a5612005c95a359b?rik=vqcumtK8P52n%2fA&pid=ImgRaw&r=0"
   },
@@ -45,12 +45,24 @@
     "id": "prod-8",
     "nombre": "Caja Vino Toro 1L",
     "precio": 2500,
-    "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/652992/Vino-Toro-Tinro-Brk-1000cc-1-853904.jpg?v=637603170416900000"
+    "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/683622/Vino-Toro-Clasico-Tinto-1125-1-875301.jpg?v=637771773913630000"
   },
   {
     "id": "prod-9",
     "nombre": "Botella Viña de Balbo 1L",
     "precio": 2500,
     "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/624748/Vino-Tinto-Vi-as-De-Balbo-Borgo-a-1-125-Cc-1-40525.jpg?v=637510296796370000"
+  },
+  {
+    "id": "prod-10",
+    "nombre": "Botella Bramha 1L",
+    "precio": 3000,
+    "imagen": "https://www.supereldesafio.com.ar/wp-content/uploads/2020/09/135-BRAHMA-CERVEZA-1000-ML-2048x2048.jpg"
+  },
+  {
+    "id": "prod-11",
+    "nombre": "Lata Bramha 473ml",
+    "precio": 2000,
+    "imagen": "https://vinotecamasis.com.ar/wp-content/uploads/2022/09/Cerveza-Brahma-Lata-473-ml.png"
   }
 ]
